@@ -1,0 +1,32 @@
+.intro{
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight:Bold;
+    color:khaki;
+    text-align: center;
+    background-image:url(../photo/pattern.jpeg);
+    
+}
+.brushes{
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
+
+a{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.Frames{
+    background-color: lightcoral;
+    color: white;
+}
+
+.paint{
+    background-color: skyblue;
+    color:white;
+}
